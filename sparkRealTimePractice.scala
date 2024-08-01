@@ -46,3 +46,28 @@ object sparkRealTimePractice extends App {
    val top20Searches = sortingDescAmountBased.take(20).foreach(println)
    
   }
+
+
+//==========================================================================================================
+//                                     Output 
+// comment out when using as a program
+(data,16394.64)
+(big,12889.278)
+(in,5774.84)
+(hadoop,4818.34)
+(course,4191.5903)
+(training,4099.3696)
+(online,3484.4202)
+(courses,2565.78)
+(intellipaat,2081.22)
+(analytics,1458.51)
+(tutorial,1383.3701)
+(hyderabad,1118.16)
+(spark,1078.72)
+(best,1047.7)
+(bangalore,1039.27)
+(and,985.8)
+(certification,967.44)
+(for,967.05005)
+(of,871.42004)
+(to,848.32996)
